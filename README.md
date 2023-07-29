@@ -11,7 +11,7 @@ b站网课：https://www.bilibili.com/video/BV1Rs4y127j8?p=1
 # 未解决的问题
 记录了学习时没弄懂的地方，需要额外查些资料。以及还没做完的笔记
 
-1. 多个应用实例有什么用？![Alt text](image-1.png)
+1. 多个应用实例有什么用？![Alt text](images/image-1.png)
 2. 内置指令笔记
 3. 深层响应性没理解 https://cn.vuejs.org/guide/essentials/reactivity-fundamentals.html#deep-reactivity
 4. DOM更新时机没理解 https://cn.vuejs.org/guide/essentials/reactivity-fundamentals.html#dom-update-timing
