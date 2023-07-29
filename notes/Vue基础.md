@@ -4,7 +4,7 @@
 1. 安装 16.0 或更高版本的 Node.js。下载地址：https://nodejs.org/en
 
 2. 命令行运行`npm init vue@latest`
-![result](image.png)
+![result](../images/image.png)
 
 ## 模版语法
 
@@ -30,7 +30,7 @@ export default{
 </template>
 
 ```
-![Alt text](image-2.png)
+![Alt text](../images/image-2.png)
 
 ### 使用Javascript表达式
 ```vue
@@ -53,7 +53,7 @@ export default{
 </template>
 ```
 
-![Alt text](image-4.png)
+![Alt text](../images/image-4.png)
 
 ### 原始Html
 > 若想插入 HTML，你需要使用 v-html 指令:  
@@ -75,7 +75,7 @@ export default{
   <p>Using v-html directive: <span v-html="rawHtml"></span></p>
 </template>
 ```
-![Alt text](image-3.png)
+![Alt text](../images/image-3.png)
 
 **注意:** 在网站上动态渲染任意 HTML 是非常危险的，因为这非常容易造成 XSS 漏洞。请仅在内容安全可信时再使用 v-html，并且永远不要使用用户提供的 HTML 内容。
 
@@ -116,7 +116,7 @@ export default{
 }
 </style>
 ```
-![Alt text](image-7.png)
+![Alt text](../images/image-7.png)
 
 ### 指令Direction
 指令是带有 v- 前缀的特殊 attribute。Vue 提供了许多[内置指令](https://cn.vuejs.org/api/built-in-directives.html)，包括上面我们所介绍的 v-bind 和 v-html。
@@ -125,7 +125,7 @@ export default{
 E.g. `<p v-if="seen">Now you see me</p>`
 
 **完整的指令语法**
-![Alt text](image-6.png)
+![Alt text](../images/image-6.png)
 
 #### 参数
 > 某些指令会需要一个“参数”，在指令名后通过一个冒号隔开做标识。例如上面提到的v-bind。
@@ -196,7 +196,7 @@ export default {
 }
 </script>
 ```
-![Alt text](image-8.png)
+![Alt text](../images/image-8.png)
 
 ### `<script setup></script>`
 上面代码的简写
@@ -269,7 +269,7 @@ const publishedBooksMessage = computed(() => {
   <span>{{ publishedBooksMessage }}</span>
 </template>
 ```
-![Alt text](image-9.png)
+![Alt text](../images/image-9.png)
 
 ### 计算属性缓存 vs 方法
 在上面的示例中，我们在表达式中像这样调用一个函数也会获得和计算属性相同的结果。
@@ -1340,7 +1340,7 @@ const postFontSize = ref(1)
   Something bad happened.
 </AlertBox>
 ```
-![Alt text](image-10.png)
+![Alt text](../images/image-10.png)
 
 
 
