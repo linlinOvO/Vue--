@@ -16,6 +16,10 @@ b站网课：https://www.bilibili.com/video/BV1Rs4y127j8?p=1
 Vue插件还没写，感觉一时半会用不到   
 [Vue 逻辑复用](notes/Vue%20逻辑复用.md)
 
+# Vue 内置组件
+Transition, TransitionGroup, KeepAlive, Teleport, (Suspense暂未整理，真的讨厌异步)  
+[Vue 内置组件](notes/Vue%20内置组件.md)
+
 # 未解决的问题
 记录了学习时没弄懂的地方，需要额外查些资料。以及还没做完的笔记
 
@@ -27,3 +31,4 @@ Vue插件还没写，感觉一时半会用不到
 6. 计算属性缓存 vs 方法，找一个实例
 7. 事件修饰符，写几个实例
 8. 深层侦听器，没看懂有什么区别
+9. Suspense内置组件
