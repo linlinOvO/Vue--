@@ -6,7 +6,7 @@ b站网课：https://www.bilibili.com/video/BV1Rs4y127j8?p=1
 
 # Vue基础
 主要记录了一些Vue语法  
-[Vue基础](Vue基础.md)
+[Vue基础](notes/Vue基础.md)
 
 # 未解决的问题
 记录了学习时没弄懂的地方，需要额外查些资料。以及还没做完的笔记

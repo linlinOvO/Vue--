@@ -851,7 +851,7 @@ onMounted(() => {
 })
 </script>
 ```
-![lifecycle](lifecycle.16e4c08e.png)
+![lifecycle](../images/lifecycle.16e4c08e.png)
 
 ## 侦听器
 ### `watch()`
