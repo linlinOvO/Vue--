@@ -8,6 +8,10 @@ b站网课：https://www.bilibili.com/video/BV1Rs4y127j8?p=1
 主要记录了一些Vue语法  
 [Vue基础](notes/Vue基础.md)
 
+# Vue深入组件
+组件的更多细节
+[Vue 深入组件](notes/Vue%20深入组件.md)
+
 # 未解决的问题
 记录了学习时没弄懂的地方，需要额外查些资料。以及还没做完的笔记
 
