@@ -12,6 +12,10 @@ b站网课：https://www.bilibili.com/video/BV1Rs4y127j8?p=1
 组件的更多细节
 [Vue 深入组件](notes/Vue%20深入组件.md)
 
+# Vue逻辑复用
+Vue插件还没写，感觉一时半会用不到
+[Vue 逻辑复用](notes/Vue%20逻辑复用.md)
+
 # 未解决的问题
 记录了学习时没弄懂的地方，需要额外查些资料。以及还没做完的笔记
 

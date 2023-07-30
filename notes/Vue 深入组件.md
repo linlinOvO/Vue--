@@ -887,7 +887,6 @@ const injected = inject(myInjectionKey)
 3. 最后得到的 AsyncComp 是一个外层包装过的组件，仅在页面需要它渲染时才会调用加载内部实际组件的函数
 
 
-
 ```vue
 <script>
 import { defineAsyncComponent } from 'vue'
@@ -912,3 +911,5 @@ const AsyncComp = defineAsyncComponent(() =>
 )
 </script>
 ```
+
+
